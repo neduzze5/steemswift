@@ -1,0 +1,121 @@
+body { background-color: whitesmoke;
+    font-family: Candara Monospace cursive;
+    
+}
+
+#SiteName {text-align: center;
+    color: lightskyblue;
+    font-size: 50px;
+    margin-top: -3px;
+}
+
+#Sign {margin-top: -10px;
+    text-align: center;
+}
+
+header {
+    height: 170px;
+    background-color: mediumorchid;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-top: -5px; 
+    border-style:ridge;
+    border-radius: 30px;
+}
+
+.Announce {
+    font-size: 20px;
+    
+}
+
+#RightContainer {
+    display: block;
+    height: 510px;
+    border-style: groove;
+    width: 23.6%;
+    margin-right: 75%;
+    text-align: justify;
+    background-color: floralwhite;
+    border-radius: 30px;
+}
+
+.Edit {
+    
+    align-content: center;
+    
+}
+
+.Headers {
+    text-align: center;
+    
+}
+
+ul {
+    margin-left: 58%;
+    margin-top: 48px;
+}
+
+li {
+    float: left;
+    list-style: none;
+    width: 100px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: cursive;
+    
+}
+
+.Trends {
+    
+    width: 75.9%;
+    height: 510;
+    border-style: solid;
+    margin-left: 24%;
+    border-radius: 30px;
+    margin-top: -516px;
+    
+}
+
+.FrontPageLinks {
+    text-align: center;
+    font-size: 18px;
+}
+
+#FrontPage {
+    color: aqua;
+    text-align: center;
+    
+}
+
+.Authors {
+    text-align: center;
+    margin-top: -15px;
+    color: aqua;
+}
+
+#Footer {
+    background-color: gray;
+    bottom: -50px;
+    width: 98.99%;
+    height: 60px;
+    border-style: groove;
+    border-radius: 30px;
+    text-align: center;   
+}
+
+
+#MyClockDisplay {
+    
+    position: absolute;
+    left: 60%;
+    top: 20%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 18px;
+    font-family: fantasy;
+
+}
+
+
+Hi @erick.esquivel,
+
+Your post has been chosen to appear on [SteemSwift](steemswift.com). Keep up with the originality and follow me to stay updated!
